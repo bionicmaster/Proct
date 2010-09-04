@@ -18,9 +18,9 @@ return array
 			 * Ports and sockets may be appended to the hostname.
 			 */
 			'hostname'   => 'localhost',
-			'database'   => 'creativa_procter2',
-			'username'   => 'creativa_procter',
-			'password'   => 'Pr0ct3rSunsc0p3',
+			'database'   => 'local',
+			'username'   => 'local',
+			'password'   => 'local',
 			'persistent' => FALSE,
 		),
 		'table_prefix' => '',
